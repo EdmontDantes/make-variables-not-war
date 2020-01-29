@@ -1,9 +1,20 @@
 /******************
  * YOUR CODE HERE *
  ******************/
+const myFirstName = 'Bogdan';
+const myLastName = 'Kowaltchook';
+const myBestFriend = 'Maxim';
+const mySentence = myFirstName + ' ' + myLastName + ' ' + 'best friend is ' + myBestFriend;
 
 
- 
+const myFavoriteNum = 5;
+const myMentalAge = 27;
+const myHeight = 178;
+const myFavoriteYear = 1996;
+
+const mySum = 3 + 1918 + 24 + 1;
+const myProduct = 232 * 43 / 2 + 4;
+const myHeightAndAge = myHeight + myMentalAge;
 
 
 /*********************************************************************************************************************
